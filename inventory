@@ -1,4 +1,5 @@
 
 [webservers]
-3.145.189.124
-18.221.106.192
+3.145.189.124 ansible_ssh_user=test2
+18.221.106.192 ansible_ssh_user=test1
+
