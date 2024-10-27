@@ -1,5 +1,5 @@
 
 [webservers]
-18.117.190.101 ansible_ssh_user=server2
-3.145.27.202 ansible_ssh_user=server1
+3.21.204.161 ansible_ssh_user=server2
+13.59.180.90 ansible_ssh_user=server1
 
